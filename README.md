@@ -1,3 +1,4 @@
+
 # 🗂️ File Organizer Script (Python)
 
 This is a simple and effective Python script that automatically organizes files in a given folder based on their file types. It's perfect for cleaning up messy directories like your Downloads folder.
@@ -29,5 +30,3 @@ This is a simple and effective Python script that automatically organizes files 
 2. Open a terminal or command prompt
 3. Run the script:
 
-```bash
-python file_organizer.py
